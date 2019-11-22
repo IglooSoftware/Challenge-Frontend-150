@@ -1,5 +1,5 @@
 # Code-Challenge-WEB
-This is the code challenge for anyone interested in being a Web Developer at Igloo.
+This is the code challenge for anyone interested in becoming a Web Developer at Igloo Software.
 
 ## Available Scripts
 
