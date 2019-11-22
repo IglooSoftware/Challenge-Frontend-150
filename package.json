@@ -9,7 +9,7 @@
     "axios": "^0.19.0"
   },
   "devDependencies": {
-    "@igloosoftware/eslint-config-igloo": "latest",
+    "@igloosoftware/eslint-config-igloo": "^2.3.1",
     "@igloosoftware/stylelint-config-igloo": "latest",
     "eslint": "^6.6.0",
     "stylelint": "^9.5.0",
