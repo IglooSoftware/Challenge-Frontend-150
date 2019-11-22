@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Scenario
 You are writing an application to call an API, and return Star Wars characters. 
 
-* Do not use any third-party libraries for this challenge outside of the ones included in this package.
+* Do not use any third-party libraries for this challenge outside what's included in the `package.json`.
 
 ## Instructions
 1. Clone this repo to your local development environment.
