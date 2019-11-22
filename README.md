@@ -41,6 +41,4 @@ You are writing an application to call an API, and return Star Wars characters.
 5. The end result should work in all major browsers include mobile devices.
 6. To submit your challenge, you can commit your changes to a forked repository or zip the project directory excluding `node_modules`.
 
-You can use libraries but in your submission, you must include the reasoning for using the libraries in your updated README.
-
 You can make assumptions in your submission as well but the assumptions must be documented in your submission README as well. The reason that assumption was made and what that affected should be included in the assumptions area.
