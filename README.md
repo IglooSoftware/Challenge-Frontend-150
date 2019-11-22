@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Scenario
-You are writing an application to call an API, and return Star Wars characters. 
+You are writing an application to call an API, [SWAPI](https://swapi.co/), and return Star Wars characters. 
 
 * Do not use any third-party libraries for this challenge outside what's included in the `package.json`.
 
